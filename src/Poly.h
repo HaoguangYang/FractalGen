@@ -1,0 +1,1 @@
+void polynomial(int*,float*,int*,int*,float*,float*,double*);
